@@ -1,0 +1,8 @@
+{
+    "debug":true,
+    "loglevel": "debug",
+    "logfile": "./app.log",
+    "logrotateage": 86400,
+    "logmaxage": 432000
+}
+
